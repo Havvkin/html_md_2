@@ -1,0 +1,21 @@
+body{
+    background-color: #c9b199;
+}
+.bilde1{
+    height: 250px;
+    width: 230px;
+   
+    
+}
+.col-sm{
+    margin-top: 45px;
+}
+h1{
+    align-content: center;
+    text-align: center;
+    margin-top: 40px;
+}
+.pictures{
+    height: 35vh;
+    width: 17vw;
+}
